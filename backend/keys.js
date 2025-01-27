@@ -1,0 +1,1 @@
+const mongoUrl = "mongodb+srv://gautamkachhadiya:wqaNdRKUaVklJ74Q@cluster0.mjras.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
